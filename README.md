@@ -1,3 +1,6 @@
 - for the video, first show a running test case by running the cli etc etc and showing that it actually works
 - then start explaining the code method by method with the main method first and just going through it line by line in the main method chronologically
 - upload the zip file, can also upload the github just incase the zip file doesnt work for any reason
+
+- first add and modify shifts in first pass
+- then sort and merge in second pass
